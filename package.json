@@ -22,7 +22,7 @@
     "url": "https://github.com/benkeen/country-region-dropdowns/issues"
   },
   "devDependencies": {
-    "country-region-data": "1.4.4",
+    "country-region-data": "^1.7.0",
     "grunt": "1.0.3",
     "grunt-contrib-uglify": "~3.3.0",
     "grunt-template": "1.0.0",
